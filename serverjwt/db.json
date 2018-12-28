@@ -1,0 +1,13 @@
+{
+    "peliculas": [
+        {
+            "title":"Name",
+            "description":"description",
+            "list": "sdfsdf",
+            "director": "sdfsdf",
+            "cost": "3245234",
+            "quantity": 3423432,
+            "id": 1
+        }
+    ]
+  }

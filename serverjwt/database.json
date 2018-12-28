@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "name": "tarzan",
+      "password": "123456",
+      "email": "tarzan@videotarzan.com",
+      "rol": "admin",
+      "id": 1
+    },
+    {
+      "name": "alejandro",
+      "password": "123456",
+      "email": "alejo@videotarzan.com",
+      "rol": "user",
+      "id": 2
+    },
+    {
+      "name": "daniel",
+      "password": "12345678",
+      "email": "daniel@videotarzan.com",
+      "rol": "user",
+      "id": 3
+    },
+    {
+      "name": "namnaem",
+      "password": "123456",
+      "email": "asnsdna@anssan.com",
+      "rol": "user",
+      "id": 4
+    },
+    {
+      "name": "alejo",
+      "password": "123456789",
+      "email": "alejandro@gmail.com",
+      "rol": "user",
+      "id": 5
+    }
+  ],
+  "peliculas": [
+    {
+      "title": "Name",
+      "description": "description",
+      "list": "sdfsdf",
+      "director": "sdfsdf",
+      "cost": "3245234",
+      "quantity": "2",
+      "id": 1
+    },
+    {
+      "title": "title",
+      "description": "ddddd",
+      "list": "lista",
+      "director": "diercade",
+      "cost": "11111",
+      "quantity": "55",
+      "id": 2
+    }
+  ],
+  "reservas": [
+    {
+      "id_movie": 1,
+      "id_user": 2,
+      "id": 1
+    },
+    {
+      "id_movie": 2,
+      "id_user": 2,
+      "id": 2
+    }
+  ]
+}

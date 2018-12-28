@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "name": "tarzan",
+        "password": "123456",
+        "email": "tarzan@videotarzan.com",
+        "rol": "admin",
+        "id": 1
+      }
+    ]
+  }
